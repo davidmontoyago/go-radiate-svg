@@ -1,0 +1,62 @@
+[
+  {
+    "resource": "bff-api-deployment-status",
+    "status": "PASS",
+    "details": "3 of 3 Replicas"
+  },
+  {
+    "resource": "clicks-api-deployment-status",
+    "status": "PASS",
+    "details": "3 of 3 Replicas"
+  },
+  {
+    "resource": "synthetic-tests-operator-status",
+    "status": "FAIL",
+    "details": "10 errors today"
+  },
+  {
+    "resource": "log-collectors-status",
+    "status": "FAIL",
+    "details": "NO_DATA"
+  },
+  {
+    "resource": "data-ingestor-status",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "resource": "network-tests-status-east",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "resource": "network-tests-status-central",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "resource": "network-tests-status-west",
+    "status": "FAIL",
+    "details": ""
+  },
+  {
+    "resource": "Change Failure Percentage",
+    "status": "PASS",
+    "details": "10%"
+  },
+  {
+    "resource": "Mean Time to Restore",
+    "status": "PASS",
+    "details": "~45min"
+  },
+  {
+    "resource": "Deployment Frequency",
+    "status": "PASS",
+    "details": "~10/day"
+  },
+  {
+    "resource": "Iteration",
+    "status": "FAIL",
+    "details": "999"
+  }
+]
